@@ -1,3 +1,3 @@
 # killboard.github.io
 
->_typing
+>typing_
